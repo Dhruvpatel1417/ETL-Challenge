@@ -1,6 +1,6 @@
 # ETL-Challenge Final Report
 
-Extract: Original Datasources from Kaggle, CSV and SQlite data formatted. Looked to use Spotify and Pitchfork data for joining into a a few different tables.
+Extract: Original Datasources from Kaggle, CSV and SQlite data formatted. Looked to use Spotify and Pitchfork data for joining into a  few different tables.
 
 
 Transform: had to create engine for pitchfork, store spotify data into DF with select columns. 
